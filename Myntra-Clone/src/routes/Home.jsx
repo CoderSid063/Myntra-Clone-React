@@ -1,5 +1,6 @@
 import HomeItem from "../components/HomeItem";
 import { useSelector } from "react-redux";
+
 const Home = () => {
   const items = useSelector((store) => store.items);
 
