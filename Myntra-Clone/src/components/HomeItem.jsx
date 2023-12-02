@@ -16,7 +16,6 @@ const HomeItem = ({ item }) => {
 
   const handleRemove = () => {
     dispatch(bagActions.removeFromBag(item.id));
-    console.log(item.id);
   };
 
   return (
