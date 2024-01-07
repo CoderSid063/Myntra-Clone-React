@@ -1,6 +1,6 @@
 # Myntra Clone
 
-This is a clone WebApp of Myntra . Create Using HTML ,CSS, JavaScript, React.
+This is a clone WebApp of Myntra . Created Using HTML ,CSS, JavaScript, React.
 
 ## Features
 
@@ -10,12 +10,12 @@ This is a clone WebApp of Myntra . Create Using HTML ,CSS, JavaScript, React.
 
 ## Deployment
 
-To deploy this project run ,First clone ths repo ,
+To deploy this project ,First clone ths repo ,
 "fileName" > git clone https://github.com/CoderSid063/Myntra-Clone-React.git.
 After clone The Repo There is two steps to Start this project.and you can see there is two file name as "Backend" , 'Myntra-Clone".
 
 1. open two new terminals in Your code editor
-2. in one terminal write cd Myntra-Clone .
+2. in 1st terminal write cd Myntra-Clone .
 3. 2nd terminal cd Backend.
 4. Install dependencies in both file like " npm install"
 
