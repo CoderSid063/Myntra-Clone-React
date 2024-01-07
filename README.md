@@ -15,7 +15,7 @@ To deploy this project ,First clone ths repo ,
 After clone The Repo There is two steps to Start this project.and you can see there is two file name as "Backend" , 'Myntra-Clone".
 
 1. open two new terminals in Your code editor
-2. in one terminal write cd Myntra-Clone .
+2. in 1st terminal write cd Myntra-Clone .
 3. 2nd terminal cd Backend.
    ![Get into the Backend ](Myntra%20Backend.png)
 4. Install dependencies in both file like " npm install"
