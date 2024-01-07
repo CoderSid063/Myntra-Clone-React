@@ -17,7 +17,9 @@ After clone The Repo There is two steps to Start this project.and you can see th
 1. open two new terminals in Your code editor
 2. in 1st terminal write cd Myntra-Clone .
 3. 2nd terminal cd Backend.
-   ![Get into the Backend ](Myntra%20Backend.png)
+
+![Get into the Backend ](Myntra%20Backend.png)
+
 4. Install dependencies in both file like " npm install"
 
 ## Installation
